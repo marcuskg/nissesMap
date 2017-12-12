@@ -1,0 +1,9 @@
+C:\repos\nissesMap\nissesApp\bin\Debug\nissesApp.exe.config
+C:\repos\nissesMap\nissesApp\bin\Debug\nissesApp.exe
+C:\repos\nissesMap\nissesApp\bin\Debug\nissesApp.pdb
+C:\repos\nissesMap\nissesApp\obj\Debug\nissesApp.csprojResolveAssemblyReference.cache
+C:\repos\nissesMap\nissesApp\obj\Debug\nissesApp.Properties.Resources.resources
+C:\repos\nissesMap\nissesApp\obj\Debug\nissesApp.csproj.GenerateResource.Cache
+C:\repos\nissesMap\nissesApp\obj\Debug\nissesApp.csproj.CoreCompileInputs.cache
+C:\repos\nissesMap\nissesApp\obj\Debug\nissesApp.exe
+C:\repos\nissesMap\nissesApp\obj\Debug\nissesApp.pdb
